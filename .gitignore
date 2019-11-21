@@ -1,0 +1,10 @@
+.DS_Store
+*.sln
+*.user
+*.db
+*.vcxproj
+.vs
+bin
+Debug
+external_libs
+GNUmakefile
